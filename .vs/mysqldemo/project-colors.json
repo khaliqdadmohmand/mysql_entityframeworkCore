@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba068b05-c343-4fd5-8f5a-26b6595aa9fa": {
+      "ProjectGuid": "ba068b05-c343-4fd5-8f5a-26b6595aa9fa",
+      "DisplayName": "mysqldemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
